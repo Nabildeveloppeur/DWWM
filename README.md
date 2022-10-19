@@ -20,4 +20,4 @@ mot en ***gras et italique***
 + item 4 
 - item 5
 
-![text alternatif]
+![text alternatif](/IMG/image.png)
